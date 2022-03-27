@@ -1,0 +1,7 @@
+dim_pop | 5
+domeniu_definitie | -2, 5
+parametrii_functie | -2 6 2 3
+precizia | 2
+crossover_prob | 1
+mutation_prob | .25
+generations | 10

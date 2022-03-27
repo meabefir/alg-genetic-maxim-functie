@@ -1,0 +1,420 @@
+
+
+[0, 0, 1, 1, 1, 1, 1, 0, 1, 1] value: 0.509 fitness: 5.315 shifted_fitness: 10.994 odds: 0.184 range: (0.0, 0.1841)
+[0, 0, 1, 1, 1, 0, 1, 0, 0, 1] value: 0.33 fitness: 4.241 shifted_fitness: 9.92 odds: 0.166 range: (0.1841, 0.3503)
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 0] value: -0.679 fitness: 5.043 shifted_fitness: 10.722 odds: 0.179 range: (0.3503, 0.5298)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 28.068 odds: 0.47 range: (0.5298, 1.0)
+[1, 0, 0, 0, 1, 1, 0, 0, 0, 1] value: 3.61 fitness: -5.679 shifted_fitness: 0.0 odds: 0.0 range: (1.0, 1.0)
+rolled a 0.19906772653439542 and selected [0, 0, 1, 1, 1, 0, 1, 0, 0, 1] value: 0.33 fitness: 4.241 shifted_fitness: 9.92 odds: 0.166 range: (0.1841, 0.3503)
+rolled a 0.6179074120471747 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 28.068 odds: 0.47 range: (0.5298, 1.0)
+rolled a 0.46761480634062047 and selected [0, 0, 1, 0, 0, 0, 0, 1, 0, 0] value: -0.679 fitness: 5.043 shifted_fitness: 10.722 odds: 0.179 range: (0.3503, 0.5298)
+rolled a 0.6568036616063668 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 28.068 odds: 0.47 range: (0.5298, 1.0)
+selected for crossover:
+[0, 0, 1, 1, 1, 0, 1, 0, 0, 1] value: 0.33 fitness: 4.241 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 0] value: -0.679 fitness: 5.043 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 6:
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 0] value: -0.679 fitness: 5.043 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 1, 1, 0, 1, 0, 0, 1] value: 0.33 fitness: 4.241 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 0.279 fitness: 3.986 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 7:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 0.279 fitness: 3.986 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 0.279 fitness: 3.986 shifted_fitness: Na odds: Na range: (Na, Na)
+to [1, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 5.4 fitness: -1000000000.0 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[1, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 5.4 fitness: -1000000000.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 22.389186000000002
+valaorea medie a performantei -199999985.64218956
+
+
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.0, 0.25)
+[1, 0, 1, 1, 1, 0, 0, 1, 0, 0] value: 5.4 fitness: -1000000000.0 shifted_fitness: 0.0 odds: 0.0 range: (0.25, 0.25)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: 1000000004.621 odds: 0.249 range: (0.25, 0.4999)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.4999, 0.7499)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.7499, 1.0)
+rolled a 0.63323464122941 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.4999, 0.7499)
+rolled a 0.7256536803393868 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.4999, 0.7499)
+rolled a 0.7206953359504417 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 1000000022.389 odds: 0.25 range: (0.4999, 0.7499)
+rolled a 0.4169685582844116 and selected [0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: 1000000004.621 odds: 0.249 range: (0.25, 0.4999)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 8:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 3:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 0, 0, 1, 0, 0, 1] value: -0.629 fitness: 4.621 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 1] value: -0.29 fitness: 2.973 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 1] value: -0.29 fitness: 2.973 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 1] value: -0.29 fitness: 2.973 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 35.004341999999994
+valaorea medie a performantei 21.0926232
+
+
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.212 range: (0.0, 0.2122)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.212 range: (0.2122, 0.4245)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.215 range: (0.4245, 0.6398)
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 1] value: -0.29 fitness: 2.973 shifted_fitness: 2.973 odds: 0.028 range: (0.6398, 0.668)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.331 range: (0.668, 1.0)
+rolled a 0.6230728216284751 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.215 range: (0.4245, 0.6398)
+rolled a 0.16730253822866636 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.212 range: (0.0, 0.2122)
+rolled a 0.5386493078149589 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.215 range: (0.4245, 0.6398)
+rolled a 0.3050940195704326 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.212 range: (0.2122, 0.4245)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 7:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 4:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 1, 0, 0, 1, 0, 1, 0, 1, 0] value: 0.98 fitness: 8.84 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 1, 0, 0, 1, 0, 1, 0, 1, 0] value: 0.98 fitness: 8.84 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 35.004341999999994
+valaorea medie a performantei 22.265950800000002
+
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.314 range: (0.0, 0.3144)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.201 range: (0.3144, 0.5155)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.201 range: (0.5155, 0.7166)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.203 range: (0.7166, 0.9205)
+[0, 1, 0, 0, 1, 0, 1, 0, 1, 0] value: 0.98 fitness: 8.84 shifted_fitness: 8.84 odds: 0.079 range: (0.9205, 0.9999)
+rolled a 0.8007716761914553 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.203 range: (0.7166, 0.9205)
+rolled a 0.505471867627808 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.201 range: (0.3144, 0.5155)
+rolled a 0.5728915062948325 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.201 range: (0.5155, 0.7166)
+rolled a 0.4587628195694554 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.201 range: (0.3144, 0.5155)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 3:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 3:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 35.004341999999994
+valaorea medie a performantei 24.975784799999996
+
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.28 range: (0.0, 0.2803)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.181 range: (0.2803, 0.4621)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.179 range: (0.4621, 0.6414)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.179 range: (0.6414, 0.8207)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.179 range: (0.8207, 1.0)
+rolled a 0.34505511565288005 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: 22.707 odds: 0.181 range: (0.2803, 0.4621)
+rolled a 0.8844046948119728 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.179 range: (0.8207, 1.0)
+rolled a 0.7404582752868257 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.179 range: (0.6414, 0.8207)
+rolled a 0.2605086719994918 and selected [0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.28 range: (0.0, 0.2803)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 1:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 8:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 0] value: -1.58 fitness: 22.707 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 0] value: -1.9 fitness: 34.577 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 1] value: -1.59 fitness: 23.027 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 0] value: -1.9 fitness: 34.577 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 1] value: -1.59 fitness: 23.027 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 0, 0, 1, 0, 1, 0] value: -1.9 fitness: 34.577 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 1, 0, 0, 1] value: -1.59 fitness: 23.027 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 1, 0, 1, 0, 1, 0, 0, 1] value: -0.31 fitness: 3.016 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 1, 0, 1, 0, 1, 0, 0, 1] value: -0.31 fitness: 3.016 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 35.004341999999994
+valaorea medie a performantei 22.7301216
+
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.307 range: (0.0, 0.3079)
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: 25.019 odds: 0.22 range: (0.3079, 0.5281)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.197 range: (0.5281, 0.7251)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.248 range: (0.7251, 0.9734)
+[0, 0, 1, 0, 1, 0, 1, 0, 0, 1] value: -0.31 fitness: 3.016 shifted_fitness: 3.016 odds: 0.026 range: (0.9734, 0.9999)
+rolled a 0.3359813655497861 and selected [0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: 25.019 odds: 0.22 range: (0.3079, 0.5281)
+rolled a 0.2041139738361023 and selected [0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.307 range: (0.0, 0.3079)
+rolled a 0.7605507088115332 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.248 range: (0.7251, 0.9734)
+rolled a 0.5316338315590868 and selected [0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.197 range: (0.5281, 0.7251)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 7:
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 1] value: -1.65 fitness: 25.019 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 2:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 35.004341999999994
+valaorea medie a performantei 29.095727999999998
+
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.24 range: (0.0, 0.2406)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: 34.155 odds: 0.234 range: (0.2406, 0.4753)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: 25.708 odds: 0.176 range: (0.4753, 0.6521)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.193 range: (0.6521, 0.846)
+[0, 0, 0, 0, 1, 0, 1, 0, 1, 1] value: -1.57 fitness: 22.389 shifted_fitness: 22.389 odds: 0.153 range: (0.846, 1.0)
+rolled a 0.5808078707524008 and selected [0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: 25.708 odds: 0.176 range: (0.4753, 0.6521)
+rolled a 0.6462460461026722 and selected [0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: 25.708 odds: 0.176 range: (0.4753, 0.6521)
+rolled a 0.8389477922301508 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.193 range: (0.6521, 0.846)
+rolled a 0.3030895576248551 and selected [0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: 34.155 odds: 0.234 range: (0.2406, 0.4753)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 1:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 4:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 38.541798
+valaorea medie a performantei 32.326250400000006
+
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] value: -1.91 fitness: 35.004 shifted_fitness: 35.004 odds: 0.216 range: (0.0, 0.2165)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.238 range: (0.2165, 0.455)
+[0, 0, 0, 0, 0, 0, 1, 0, 1, 1] value: -1.89 fitness: 34.155 shifted_fitness: 34.155 odds: 0.211 range: (0.455, 0.6663)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: 25.708 odds: 0.159 range: (0.6663, 0.8253)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.174 range: (0.8253, 0.9999)
+rolled a 0.7815080845995248 and selected [0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: 25.708 odds: 0.159 range: (0.6663, 0.8253)
+rolled a 0.9522148277682074 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.174 range: (0.8253, 0.9999)
+rolled a 0.8907626002028325 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.174 range: (0.8253, 0.9999)
+rolled a 0.9983710249424064 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.174 range: (0.8253, 0.9999)
+selected for crossover:
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 5:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 3:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+to [1, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: 3.38 fitness: 1.077 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 1, 0, 0, 0, 0, 1] value: -1.67 fitness: 25.708 shifted_fitness: Na odds: Na range: (Na, Na)
+to [0, 0, 0, 0, 1, 0, 0, 1, 0, 1] value: -1.63 fitness: 24.342 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[1, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: 3.38 fitness: 1.077 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 1, 0, 0, 1, 0, 1] value: -1.63 fitness: 24.342 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 38.541798
+valaorea medie a performantei 24.081088799999996
+
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.32 range: (0.0, 0.3201)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.234 range: (0.3201, 0.5544)
+[1, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: 3.38 fitness: 1.077 shifted_fitness: 1.077 odds: 0.008 range: (0.5544, 0.5634)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.234 range: (0.5634, 0.7978)
+[0, 0, 0, 0, 1, 0, 0, 1, 0, 1] value: -1.63 fitness: 24.342 shifted_fitness: 24.342 odds: 0.202 range: (0.7978, 1.0)
+rolled a 0.18519515480578796 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.32 range: (0.0, 0.3201)
+rolled a 0.09518154940832957 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.32 range: (0.0, 0.3201)
+rolled a 0.6419338434266209 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.234 range: (0.5634, 0.7978)
+rolled a 0.3843756056678257 and selected [0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.234 range: (0.3201, 0.5544)
+selected for crossover:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 2:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 9:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: -1.73 fitness: 27.852 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: -1.73 fitness: 27.852 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+mutated [0, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: -1.73 fitness: 27.852 shifted_fitness: Na odds: Na range: (Na, Na)
+to [1, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: 3.389 fitness: 0.816 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[1, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: 3.389 fitness: 0.816 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 39.0
+valaorea medie a performantei 29.024281200000008
+
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.265 range: (0.0, 0.2655)
+[0, 0, 0, 0, 0, 1, 1, 0, 1, 0] value: -1.74 fitness: 28.221 shifted_fitness: 28.221 odds: 0.194 range: (0.2655, 0.46)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.265 range: (0.46, 0.7256)
+[1, 0, 0, 0, 0, 1, 1, 0, 1, 1] value: 3.389 fitness: 0.816 shifted_fitness: 0.816 odds: 0.005 range: (0.7256, 0.7312)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: 39.0 odds: 0.268 range: (0.7312, 0.9999)
+rolled a 0.9081866479458689 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: 39.0 odds: 0.268 range: (0.7312, 0.9999)
+rolled a 0.0027458394338434333 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.265 range: (0.0, 0.2655)
+rolled a 0.12452809506053542 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.265 range: (0.0, 0.2655)
+rolled a 0.46696159860475284 and selected [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: 38.541 odds: 0.265 range: (0.46, 0.7256)
+selected for crossover:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 1:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+double crossing at 8:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+crossing result:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa recombinare:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+populatie dupa mutatii:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] value: -2.0 fitness: 39.0 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] value: -1.99 fitness: 38.541 shifted_fitness: Na odds: Na range: (Na, Na)
+fitness maxim 39.0
+valaorea medie a performantei 38.7250788
