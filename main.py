@@ -192,7 +192,10 @@ def select_by_fitness_weight(_pop):
     # asignez pt fiecare range-ul din care poate fi ales
     current_range_start = 0
     for specimen in _pop:
-        odds = specimen.shifted_fitness / total_fitness
+        if total_fitness != 0:
+            odds = specimen.shifted_fitness / total_fitness
+        else:
+            odds = 1 / len(_pop)
         specimen.range = (current_range_start, current_range_start + odds)
         specimen.odds = odds
         current_range_start += odds
@@ -286,7 +289,8 @@ def mutate(population):
             specimen.mutate()
 
 population = [Specimen(chromo) for chromo in generate_initial_population()]
-# pprint(population)
+pprint(population)
+# exit(1)
 maxi = max([specimen.fitness for specimen in population])
 for i in range(generations):
     elite = get_elite_specimen(population)
